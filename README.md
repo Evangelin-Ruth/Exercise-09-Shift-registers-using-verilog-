@@ -126,8 +126,7 @@ endmodule
 
 
 ## Timing Diagram for Shift Registers:
-![image](https://user-images.githubusercontent.com/94219798/172875447-3dd4ff76-858b-4320-8ec3-87c106463bae.png)
-
+![image](https://user-images.githubusercontent.com/94219798/172895540-af121fa0-cf8c-4ff4-bc06-d1554b8d830f.png)
 ### Parallel Input Parallel Output (PIPO):
 ## RTL Registers:
 ![image](https://user-images.githubusercontent.com/94219798/172875628-fbf6b45a-26a9-4164-ace0-f647f192f9b7.png)
